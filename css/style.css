@@ -1,0 +1,44 @@
+body{
+    background-color: #131722;
+    color: #fff;
+    font-family: Montserrat Alternates,sans-serif;
+}
+
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+h2{
+    font-family: 'Pacifico', cursive;
+    font-size: 1.25rem;
+    color: #b1b137
+}
+
+.nabar-bg{
+    background-color: #054f69
+}
+
+.home-hello{
+    font-size: 2rem;
+}
+
+.home-my-name{
+    font-size: 2rem;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.home-paragraph{
+    color: #b1b137;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+    margin-top: 0;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.mail-link:hover a{
+    color: #b1b137;
+}
